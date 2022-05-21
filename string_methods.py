@@ -1,6 +1,10 @@
 str1 = 'Hello World! This is my python class. '
 str2 = 'Welcome\t to MY house'
 str3 = 'i just love this course!'
+print('str1: ',str1)
+print('str2: ',str2)
+print('str2: ',str3)
+
 # capitalize() : Converts the first character to upper case
 str_out = str1.capitalize()
 print(str_out, '>>capitalize()')
